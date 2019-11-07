@@ -6,6 +6,6 @@
 	"size": 1,
 	"breakable": true,
 	"requirements": [
-		{ "item": "titanium", "amount": 10 }
+		{ "item": "copper", "amount": 10 }
 	]
 }
