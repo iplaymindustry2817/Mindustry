@@ -8,5 +8,5 @@
 	"requirements": [
 		{ "item": "copper", "amount": 10 }
 	]
-        "category": "defense",
+        "category": "turrets",
 }
